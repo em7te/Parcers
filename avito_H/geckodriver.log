@@ -1,0 +1,65 @@
+1667052759243	geckodriver	INFO	Listening on 127.0.0.1:41843
+1667052759248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQLf7lT"
+1667052760098	Marionette	INFO	Marionette enabled
+1667052760105	Marionette	INFO	Listening on port 45631
+Read port: 45631
+WebDriver BiDi listening on ws://127.0.0.1:41229
+1667052760243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQLf7lT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41229/devtools/browser/077c6005-c8fa-4efd-88cb-cff9c6a4920f
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.1e710977400fd6bab6de.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'if'
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'if'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667052781805	Marionette	INFO	Stopped listening on port 45631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667052791949	geckodriver	INFO	Listening on 127.0.0.1:33019
+1667052791954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepOBGuy"
+*** You are running in headless mode.
+1667052792365	Marionette	INFO	Marionette enabled
+1667052792372	Marionette	INFO	Listening on port 43797
+WebDriver BiDi listening on ws://127.0.0.1:52229
+Read port: 43797
+1667052792645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepOBGuy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52229/devtools/browser/16097218-91a6-4a2d-90df-4f9ad93cd34a
+VMware: No 3D enabled (0, Выполнено).
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.1e710977400fd6bab6de.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'if'
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'const'
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'if'
+JavaScript warning: https://ds.serving-sys.ru/BurstingCachedScripts//Ad_2_218_3_0/ebHtml5PoliteBanner.js, line 130: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.avito.ru."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: https://www.avito.ru/moskva?q=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83+%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%BA%D0%B0, line 2: SyntaxError: unexpected token: keyword 'if'
+1667052826443	Marionette	INFO	Stopped listening on port 43797
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1667053114410	geckodriver	INFO	Listening on 127.0.0.1:43407
+1667053114906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenChMd2"
+*** You are running in headless mode.
+1667053116300	Marionette	INFO	Marionette enabled
+1667053116316	Marionette	INFO	Listening on port 42411
+Read port: 42411
+WebDriver BiDi listening on ws://127.0.0.1:49177
+1667053116581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenChMd2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49177/devtools/browser/7f17a9fe-9f2e-44c3-94cb-cd6eb6843e8b
+VMware: No 3D enabled (0, Выполнено).
+libEGL warning: DRI2: failed to create dri screen
+JavaScript warning: https://www.avito.ru/dstatic/build/client/f.1e710977400fd6bab6de.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'if'
+JavaScript error: https://www.avito.ru/, line 2: SyntaxError: unexpected token: keyword 'if'
+1667053134685	Marionette	INFO	Stopped listening on port 42411
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
